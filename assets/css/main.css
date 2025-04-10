@@ -6544,11 +6544,13 @@ a.header__search.header-search-btn p {
   font-size: var(--f-fs-font-fs20);
 }
 .servcie2 .servcie2-box .icon {
-  height: 50px;
+  height: 65px;
   margin-bottom: 24px;
-  width: 50px;
+  width: 65px;
   line-height: 50px;
   text-align: center;
+  
+  justify-items: center;
   border-radius: 50%;
   border: 1px solid var(--ztc-bg-bg-5);
   background-color: #000120;
