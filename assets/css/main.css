@@ -11654,7 +11654,7 @@ a.header__search.header-search-btn p {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../img/bg/hero2-main-bg.png);
+  /* background-image: url(../img/bg/hero2-main-bg.png); */
   z-index: -1;
   background-position: center center;
   background-repeat: no-repeat;
